@@ -40,8 +40,8 @@ I used SQL to perform data analysis, Excel for data preparation and exploration,
 ### Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard-1.png" width="49%" alt="Pizza Sales Dashboard Overview"/>
-  <img src="images/dashboard-2.png" width="49%" alt="Pizza Sales Dashboard Details"/>
+  <img src="Pizza%20Sales%20Analysis%20Dashboard%20Home%20Page.png" width="49%" alt="Pizza Sales Dashboard Home Page"/>
+  <img src="Pizza%20Sales%20Analysis%20Dashboard%20Top%26bottom.png" width="49%" alt="Pizza Sales Dashboard Top and Bottom Analysis"/>
 </p>
 
 ## Problem Statement
@@ -220,9 +220,9 @@ In the future, I would like to improve this project by:
 **MD Hujaifa**  
 Data Analyst | Founder of Hujaifa Data Lab
 
-- GitHub: [Your GitHub Profile](https://github.com/hujafia)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mdhujaifa/)
-- Email: [Your Email](mailto:mdhujaifa292004@mail.com)
+- GitHub: [MD HUJAIFA](https://github.com/hujafia)
+- LinkedIn: [MD HUJAIFA](https://www.linkedin.com/in/mdhujaifa/)
+- Email: mailto:mdhujaifa292004@mail.com
 
 I am always interested in learning new things, solving business problems with data, and improving my analytical skills.
 
